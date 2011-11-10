@@ -1,0 +1,7 @@
+*.suo
+*.user
+*.cachefile
+/NatrisRedux/Natris/bin
+/NatrisRedux/Natris/obj
+/NatrisRedux/NatrisReduxContent/bin
+/NatrisRedux/NatrisReduxContent/obj

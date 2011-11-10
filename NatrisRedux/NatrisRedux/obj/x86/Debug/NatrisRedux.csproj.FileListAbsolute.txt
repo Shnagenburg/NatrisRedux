@@ -1,0 +1,11 @@
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\bin\x86\Debug\NatrisRedux.exe
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\bin\x86\Debug\NatrisRedux.pdb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\obj\x86\Debug\NatrisRedux.exe
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\obj\x86\Debug\NatrisRedux.pdb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\bin\x86\Debug\Content\menuBG.xnb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\bin\x86\Debug\Content\button.xnb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\bin\x86\Debug\Content\selectedbutton.xnb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\bin\x86\Debug\Content\buttonText.xnb
+C:\Users\Nate\Documents\Visual Studio 2010\Projects\NatrisRedux\NatrisRedux\NatrisRedux\bin\x86\Debug\Content\UIMono24.xnb

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatrisRedux", "NatrisRedux\NatrisRedux\NatrisRedux.csproj", "{34905678-CFCE-4F4B-9593-92F2FFECF54A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "NatrisReduxContent", "NatrisRedux\NatrisReduxContent\NatrisReduxContent.contentproj", "{A82CC848-3513-41B0-A8FE-BDFEECCFA382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34905678-CFCE-4F4B-9593-92F2FFECF54A}.Debug|x86.ActiveCfg = Debug|x86
+		{34905678-CFCE-4F4B-9593-92F2FFECF54A}.Debug|x86.Build.0 = Debug|x86
+		{34905678-CFCE-4F4B-9593-92F2FFECF54A}.Release|x86.ActiveCfg = Release|x86
+		{34905678-CFCE-4F4B-9593-92F2FFECF54A}.Release|x86.Build.0 = Release|x86
+		{A82CC848-3513-41B0-A8FE-BDFEECCFA382}.Debug|x86.ActiveCfg = Debug|x86
+		{A82CC848-3513-41B0-A8FE-BDFEECCFA382}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
